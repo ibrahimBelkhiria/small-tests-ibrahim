@@ -1,4 +1,4 @@
-# Afficher des nombres
-Vous pouvez choisir votre langage préféré.
+# The exercise
+You can choose any language.
 
-Ecrivez un programme qui affiche tous les nombres de 1 à 100. Mais au lieu d'afficher des multiple de trois, affichez "Baba". Au lieu d'afficher les multiples de 5, affichez "Sport". Pour les nombres multiples de trois et de cinq, affichez "Babasport".
+Write a program that will output every number from 1 to 100. But for multiples of three print "Baba" instead of the number and for the multiples of five print "Sport". For numbers which are multiples of both three and five print "Babasport".
