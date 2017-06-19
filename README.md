@@ -1,8 +1,6 @@
 # Bienvenue !
 
-Vous êtes probablement là pour un stage chez Babasport, en tant que développeur web full-stack. 
-
-Voilà quelques petits exercices qui nous permettront de découvrir votre style.
+Vous êtes là pour un stage chez Babasport, en tant que développeur web full-stack ? Vous êtes au bon endroit. Nous vous proposons quelques exercices pour mieux vous connaitre, et pour découvrir votre style. L'ensemble de ces exercices ne vous retiendra pas plus d'une heure !
 
 ## Mode d'emploi 
 
