@@ -1,3 +1,6 @@
+Alors alors, on maitrise Github, mais on maitrise moins l'anglais ? 
+Voilà une version française du readme, hope it helps.
+
 # Bienvenue !
 
 Vous êtes là pour un stage chez Babasport, en tant que développeur web full-stack ? Vous êtes au bon endroit. Nous vous proposons quelques exercices pour mieux vous connaitre, et pour découvrir votre style. L'ensemble de ces exercices ne vous retiendra pas plus d'une heure !
