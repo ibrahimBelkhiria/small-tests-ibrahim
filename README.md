@@ -8,7 +8,10 @@ We require applicants to pass a few tests, in order for us to discover your styl
 
 1. Fork the repository
 2. Each folder contains an exercise. Choose your favorite language. For each exercise, create a solution.rb (or solution.js if you chose JS) with your solution to the test. 
-3. Send me Pull Request if possible, or a link to your repository at lucas@babasport.fr
+3. Either 
+    * Send me Pull Request
+    * Send me link to your repository via email at lucas<at>babasport.fr
+    * Send me a zip of your repository 
 4. ???? 
 5. [Profit](http://knowyourmeme.com/memes/profit)
 
@@ -16,3 +19,4 @@ We require applicants to pass a few tests, in order for us to discover your styl
 We care as much about the result than about the method and the quality of your code : elegance, readability, and performance. Keep that in mind when coding :)
 
 If you deem it necessary, don't hesitate to give further instructions to run your code.
+
