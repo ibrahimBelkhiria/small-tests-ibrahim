@@ -1,19 +1,18 @@
-Alors alors, on maitrise Github, mais on maitrise moins l'anglais ? 
-Voilà une version française du readme, hope it helps.
+# Welcome !
 
-# Bienvenue !
+You want to apply for an internship at Babasport, as a full-stack web developper ? You are in the right place.
 
-Vous êtes là pour un stage chez Babasport, en tant que développeur web full-stack ? Vous êtes au bon endroit. Nous vous proposons quelques exercices pour mieux vous connaitre, et pour découvrir votre style. L'ensemble de ces exercices ne vous retiendra pas plus d'une heure !
+We require applicants to pass a few tests, in order for us to discover your style and abilities. Overall, it will not take more than one hour of your time !
 
-## Mode d'emploi 
+## How to apply
 
-1. Forkez le repository
-2. Chaque dossier numéroté contient un exercice. Choisissez votre langage préféré. Pour chaque exercice, créez un ficher solution.rb (ou solution.js si vous avez choisir JS) dans le dossier de l'exercice avec votre solution. 
-3. Envoyez une Pull Request ou un lien vers votre repository à lucas@babasport.fr
+1. Fork the repository
+2. Each folder contains an exercise. Choose your favorite language. For each exercise, create a solution.rb (or solution.js if you chose JS) with your solution to the test. 
+3. Send me Pull Request if possible, or a link to your repository at lucas@babasport.fr
 4. ???? 
 5. [Profit](http://knowyourmeme.com/memes/profit)
 
-## Conseils
-Nous sommes autant attachés au résultat qu'à la méthode, ainsi qu'à la qualité du code: élégance, lisibilité, performance.
+## Advices
+We care as much about the result than about the method and the quality of your code : elegance, readability, and performance. Keep that in mind when coding :)
 
-Si vous le jugez nécessaire, n'hésitez pas à donner des instructions pour faire tourner votre code.
+If you deem it necessary, don't hesitate to give further instructions to run your code.
