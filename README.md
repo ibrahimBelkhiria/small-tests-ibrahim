@@ -8,7 +8,7 @@ We require applicants to pass a few tests, in order for us to discover your styl
 
 1. Clone the repository locally. 
 2. Each folder contains an exercise. Choose your favorite language. For each exercise, create a solution.rb (or solution.js if you chose JS) with your solution to the test. 
-3. Send me a zip of your repository via email at lucas<at>babasport.fr
+3. Send me a zip of your repository via email at lucas/at/babasport.fr
 4. ???? 
 5. [Profit](http://knowyourmeme.com/memes/profit)
 
