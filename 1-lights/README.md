@@ -13,7 +13,7 @@ Continuez à switcher les interrupteurs tous les n, au passange numéro n. Aprè
 ## Solution demandée
 Vous devez au moins fournir une implémentation qui affiche la réponse en sortie standard.
 
-Vous pouvez néanmois fournir également une réponse mathématique si vous la trouvez.
+Vous pouvez néanmoins fournir également une réponse mathématique si vous la trouvez.
 
 ## Langage
 Choisissez le langage de votre choix
